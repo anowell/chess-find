@@ -1,0 +1,3 @@
+...just an experiment exploring an idea around evaluating the PGN of a given chess game around a set of rules...
+
+The underlying idea is around having people submit games that met specific [often ridiculous] criteria.
